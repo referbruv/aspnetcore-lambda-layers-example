@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+AwsLayers.App/bin/
+AwsLayers.App/obj/
+AwsLayers.Dependencies/bin/
+AwsLayers.Dependencies/obj/
+AwsLayers.UtilLayer/bin/
+AwsLayers.UtilLayer/obj/

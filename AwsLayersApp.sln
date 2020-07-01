@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLayers.App", "AwsLayers.App\AwsLayers.App.csproj", "{9A379AA2-E430-42C7-91E1-9306B39C58DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLayers.Util", "AwsLayers.UtilLayer\AwsLayers.Util.csproj", "{3254CCFE-C203-42CA-B18D-8084BF781B95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLayers.Dependencies", "AwsLayers.Dependencies\AwsLayers.Dependencies.csproj", "{C19E710A-72FF-4A76-9186-2B9D056B1CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A379AA2-E430-42C7-91E1-9306B39C58DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A379AA2-E430-42C7-91E1-9306B39C58DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A379AA2-E430-42C7-91E1-9306B39C58DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A379AA2-E430-42C7-91E1-9306B39C58DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3254CCFE-C203-42CA-B18D-8084BF781B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3254CCFE-C203-42CA-B18D-8084BF781B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3254CCFE-C203-42CA-B18D-8084BF781B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3254CCFE-C203-42CA-B18D-8084BF781B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19E710A-72FF-4A76-9186-2B9D056B1CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19E710A-72FF-4A76-9186-2B9D056B1CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19E710A-72FF-4A76-9186-2B9D056B1CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19E710A-72FF-4A76-9186-2B9D056B1CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9134F33F-12C8-4088-B9C1-412D7F050029}
+	EndGlobalSection
+EndGlobal
